@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author marce
+ * @author niklaswittenbrink
  */
 public class DataHandler {
     FileWriter fw = null;
