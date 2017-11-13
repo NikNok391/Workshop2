@@ -7,7 +7,7 @@ package Model;
 
 /**
  *
- * @author marce
+ * @author niklaswittenbrink
  */
 public class Boat {
     private int length;
